@@ -1,0 +1,6 @@
+Written content!
+Now the file has more content!,
+Hi I'm learning Python,
+This is File Handling,
+Python 1234,
+1234
